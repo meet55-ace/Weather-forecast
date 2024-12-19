@@ -15,7 +15,7 @@ const days = [
     "Monday",
     "Tuesday",
     "Wednesday",
-    "Thrusday",
+    "Thursday",
     "Friday",
     "Saturday",
 ];
